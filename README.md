@@ -28,11 +28,11 @@ Works on desktop and mobile (virtual stick + touch look).
 
 ## Developer
 
-Built by **[@0pusdev](https://x.com/0pusdev)** on X.
+Built by **[@gameopusdev](https://x.com/gameopusdev)** on X.
 
 Follow for updates and dev logs:
 
-**[https://x.com/0pusdev](https://x.com/0pusdev)**
+**[https://x.com/gameopusdev](https://x.com/gameopusdev)**
 
 ## Repository notice
 
