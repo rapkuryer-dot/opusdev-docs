@@ -34,6 +34,12 @@ Built by **[@0pusdev](https://x.com/0pusdev)** on X.
 
 Game updates: **[@gameopusdev](https://x.com/gameopusdev)**
 
+## Coin
+
+**[$OPUSDEV on pump.fun](https://pump.fun/coin/ENfSPZh5tGP9tjKQpJY3FArAq2UN4jn7MYDLQ4dCpump)**
+
+Token mint: `ENfSPZh5tGP9tjKQpJY3FArAq2UN4jn7MYDLQ4dCpump`
+
 ## Repository notice
 
 This public repository contains **documentation only**.
