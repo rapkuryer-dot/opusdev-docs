@@ -26,11 +26,11 @@ Works on desktop and mobile (virtual stick + touch look).
 
 ## Developer
 
-Built by **[@rapkuryers](https://x.com/rapkuryers)** on X.
+Built by **[@0pusdev](https://x.com/0pusdev)** on X.
 
 Follow for updates and dev logs:
 
-**[https://x.com/rapkuryers](https://x.com/rapkuryers)**
+**[https://x.com/0pusdev](https://x.com/0pusdev)**
 
 ## Repository notice
 
