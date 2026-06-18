@@ -3,6 +3,8 @@
 **OPUSDEV** is a browser 3D exploration game on a tiny stylized planet.  
 Built with **Three.js** (WebGL) and **three-mesh-bvh** — walk, jump, and explore in any modern browser, no install.
 
+On play, the world **materializes block by block**: hills, streets, trees, and buildings fly in and snap together as you move.
+
 ## Play
 
 **[https://opusdev.org](https://opusdev.org)**
