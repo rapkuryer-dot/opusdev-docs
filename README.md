@@ -1,7 +1,7 @@
 # OPUSDEV
 
-**OPUSDEV** is a browser-based 3D exploration game on a tiny stylized planet.  
-Walk, jump, and look around in any modern browser — no install required.
+**OPUSDEV** is a browser 3D exploration game on a tiny stylized planet.  
+Built with **Three.js** (WebGL) and **three-mesh-bvh** — walk, jump, and explore in any modern browser, no install.
 
 ## Play
 
