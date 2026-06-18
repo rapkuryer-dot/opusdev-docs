@@ -5,7 +5,9 @@ Walk, jump, and look around in any modern browser — no install required.
 
 ## Play
 
-Live build: deploy from [rapkuryer/opusdevgame](https://github.com/rapkuryer/opusdevgame) on [Vercel](https://vercel.com).
+**[https://opusdev.org](https://opusdev.org)**
+
+Source deploy: [rapkuryer/opusdevgame](https://github.com/rapkuryer/opusdevgame) on [Vercel](https://vercel.com).
 
 ## Controls
 
