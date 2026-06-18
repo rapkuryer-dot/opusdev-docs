@@ -28,11 +28,9 @@ Works on desktop and mobile (virtual stick + touch look).
 
 ## Developer
 
-Built by **[@gameopusdev](https://x.com/gameopusdev)** on X.
+Built by **[@0pusdev](https://x.com/0pusdev)** on X.
 
-Follow for updates and dev logs:
-
-**[https://x.com/gameopusdev](https://x.com/gameopusdev)**
+Game updates: **[@gameopusdev](https://x.com/gameopusdev)**
 
 ## Repository notice
 
