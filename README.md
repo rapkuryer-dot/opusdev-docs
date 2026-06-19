@@ -36,9 +36,9 @@ Game updates: **[@gameopusdev](https://x.com/gameopusdev)**
 
 ## Coin
 
-**[$OPUSDEV on pump.fun](https://pump.fun/coin/ENfSPZh5tGP9tjKQpJY3FArAq2UN4jn7MYDLQ4dCpump)**
+**[$OPUSDEV on pump.fun](https://pump.fun/coin/7Crtw8ZrFZCJnK9aX3rQvrMBV7S3mToXCcJpUqVZYory)**
 
-Token mint: `ENfSPZh5tGP9tjKQpJY3FArAq2UN4jn7MYDLQ4dCpump`
+Token mint: `7Crtw8ZrFZCJnK9aX3rQvrMBV7S3mToXCcJpUqVZYory`
 
 ## Repository notice
 
